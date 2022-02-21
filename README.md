@@ -1,4 +1,4 @@
-# 资源
+# 资源归纳
 ##### 1 .PPT
 https://github.com/yaoguangluo/ChromosomeDNA/tree/main/ppt
 
